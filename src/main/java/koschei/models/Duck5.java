@@ -6,7 +6,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class Duck5 {
 
-
     private Egg6 egg;
 
     @Override
